@@ -1,0 +1,67 @@
+
+section {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+.search {
+    background-color: #EEEEEE;
+    max-height: 80px;
+    margin-bottom: 1px;
+}
+.search p{
+    font-size: 16px;
+    margin: 0;
+}
+
+.extras {
+    width: 100%;
+    display: flex;
+    margin: 0px;
+    max-height: 85px;
+}
+
+.special {
+    width: 45%;
+    text-align: center;
+    background-color: #7EE5DA;
+    padding: 16px 0px 0px 0px;
+    margin: 0 1px 1px 0px;
+}
+
+.special a, p {
+
+    margin: 0px;
+}
+
+
+.help {
+    margin: 0 1px 1px 1px;
+    width: 25%;
+    background-color: #70CCC2;
+    padding: 2px;
+}
+.help a{
+    display: inline;
+    font-size: 14px;
+    margin: 0px;
+}
+
+.get-google {
+    width: 55%;
+    text-align: center;
+    background-color: #62B3AA;
+    margin: 0 0 1px 1px;
+}
+
+.get-google p, a{
+    font-size: 16px;
+    margin: 0px
+}
+
+
+.copyright {
+    text-align: center;
+    margin: 12px;
+    font-size: 14px;
+}
